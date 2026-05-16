@@ -7,7 +7,7 @@ pantalla.bgcolor("black")
 pantalla.title("Sistema Solar")
 pantalla.setup(width=800, height=800)
 
-# Sol
+# Sol mis comentarios
 sol = turtle.Turtle()
 sol.shape("circle")
 sol.color("yellow")
